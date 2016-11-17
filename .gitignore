@@ -1,4 +1,5 @@
 node_modules
 bower_components
+*.txt
 .DS_Store
 site/dist/*.*
